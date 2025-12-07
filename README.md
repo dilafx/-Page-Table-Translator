@@ -45,7 +45,7 @@ You need **Python 3.x** installed on your computer.
 ### Steps
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/yourusername/EEX5564-PageTable.git](https://github.com/yourusername/EEX5564-PageTable.git)
+    git clone 
     ```
 2.  **Navigate to the Folder:**
     ```bash
